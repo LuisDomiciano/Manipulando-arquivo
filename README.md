@@ -2,7 +2,7 @@
 
 ## Manipulação de arquivo em modo de leitura
 
-### A lista duplamente encadeada é populada (inserção de elementos) pelos dados contidos no arquivo de texto "contatos.txt", após a inserção ocorre o fechamento do arquivo, por fim é apresentado dos dados da lista.
+### A lista duplamente encadeada é populada (inserção de elementos) pelos dados contidos no arquivo de texto "contatos.txt", após a inserção ocorre o fechamento do arquivo, por fim é apresentado os dados da lista.
 
 ## Referências
 ### Apostila: Práticas de Programação em C 2017
